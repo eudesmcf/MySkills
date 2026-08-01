@@ -45,3 +45,7 @@ Para adicionar uma nova skill:
 3. Inclua a skill na seção correspondente deste índice.
 4. Execute quick_validate.py na pasta criada e verifique os links.
 -->
+
+## Análise — Design de Data Products
+
+- [Gerador de Design System de Data Product](./Analise/Gerador-de-Design-System-de-Data-Product.md): Analisa repositórios e gera uma visão baseada em evidências de design, UX, arquitetura da informação, Data Products, governança, dívida e maturidade.
