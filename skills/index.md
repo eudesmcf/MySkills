@@ -2,7 +2,7 @@
 id: biblioteca-de-skills
 title: Biblioteca de Skills
 description: Índice das skills pessoais para discovery, análise, planejamento e melhoria contínua.
-lastUpdated: 2026-07-30
+lastUpdated: 2026-09-06
 creator: Eudes Carvalho
 tags:
   - skills
@@ -17,6 +17,10 @@ tags:
 Índice das skills pessoais para discovery, análise, planejamento e melhoria contínua.
 
 Consulte o [README de padrões](../README.md) para criar ou atualizar skills seguindo a convenção da biblioteca.
+
+## Criação e governança
+
+- [Criação de Skill personalizada](./Criacao-de-Skill-Personalizada.md): Entrevista e gera novas skills completas, catalogadas e validadas.
 
 ## Discovery
 

@@ -1,6 +1,6 @@
 # Biblioteca de Skills
 
-Biblioteca pessoal de skills para apoiar discovery, análise, planejamento e melhoria contínua.
+Biblioteca pessoal de skills para apoiar discovery, análise, planejamento, melhoria contínua e criação de novas skills.
 
 As skills ficam em [`skills/`](./skills/), organizadas por categoria. O índice completo está em [`skills/index.md`](./skills/index.md).
 
@@ -72,6 +72,8 @@ Cada skill deve:
 - Usar critérios, tabelas ou checklists quando melhorarem a consistência.
 - Manter o conteúdo essencial no próprio arquivo `.md` e evitar documentação auxiliar desnecessária.
 
+Use também a estrutura operacional densa: papel e missão, regra principal, princípios operacionais, entradas, fluxo detalhado, tratamento de lacunas e exceções, formato do resultado, critérios de qualidade, checklist de encerramento e primeira ação.
+
 Prefira instruções no imperativo ou no infinitivo:
 
 ```markdown
@@ -108,6 +110,8 @@ Não preencher campos desconhecidos com valores inventados. Usar `A definir`, `P
 6. Adicione a skill na seção correspondente de [`skills/index.md`](./skills/index.md).
 7. Atualize `lastUpdated` quando alterar o catálogo.
 8. Valide a skill antes de finalizar.
+
+A skill [Criação de Skill personalizada](./skills/Criacao-de-Skill-Personalizada.md) conduz esse processo por entrevista e gera o conteúdo, a entrada do índice e o checklist de validação.
 
 ## Validação
 
